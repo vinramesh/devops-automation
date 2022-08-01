@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		System.out.println(" Hi Ramesh Vinayagam ????");
+		System.out.println(" Hi Ramesh Vinayagam  ======= >>>>>>>>>> ");
 		return "welcome to javatechie";
 	}
 
